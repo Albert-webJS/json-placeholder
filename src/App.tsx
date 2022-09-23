@@ -3,7 +3,6 @@ import { ManageRequest, DisplayJson } from "./components";
 import { useEffect, useState } from "react";
 import { HashType } from "./interfaces/Hash";
 import API from "./dal/api/API";
-import { loadavg } from "os";
 
 export const App = (): JSX.Element => {
   const [data, setData] = useState<HashType>({});
