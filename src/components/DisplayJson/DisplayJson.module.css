@@ -1,0 +1,12 @@
+.displayJson {
+  flex: 0 1 720px;
+  padding: 1rem;
+  background-color: rgba(222, 184, 135, 0.6);
+  position: relative;
+}
+
+.contentJson {
+  display: block;
+  width: 100%;
+  max-width: 370px;
+}

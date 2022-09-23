@@ -1,0 +1,24 @@
+{
+  "hash": {
+    "hash1": {
+      "id": "content-1",
+      "content": "header"
+    },
+    "hash2": [
+      {
+        "id": "HASH2_1",
+        "content": "body"
+      },
+      {
+        "id": "HASH2_2",
+        "content": "body"
+      }
+    ],
+    "hash3": {
+      "key": "content"
+    },
+    "hash4": {
+      "key": "content"
+    }
+  }
+}

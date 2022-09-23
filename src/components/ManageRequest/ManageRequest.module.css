@@ -1,0 +1,24 @@
+.manageDisplay {
+  flex: 1 0 720px;
+  height: 100%;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px ;
+}
+
+.image {
+  width: 100%;
+  max-width: 100px;
+}
+
+.manageBtn {
+  width: 100%;
+  max-width: 200px;
+  height: 40px;
+  border: none;
+  background-color: rgb(219, 179, 126);
+  cursor: pointer;
+}
